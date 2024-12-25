@@ -9,6 +9,7 @@ Candleaf Live is a modern e-commerce platform developed as the **graduation proj
 
 - [Demo](#demo)
 - [Features](#features)
+- [Design](#design)
 - [Technologies Used](#technologies-used)
   - [Fonts](#fonts)
   - [Frameworks](#frameworks)
@@ -29,6 +30,13 @@ Experience the live version of the project:
 - **Fast Performance:** Utilizes web optimization tools to ensure quick load times.
 - **User-Friendly Interface:** Designed with user experience in mind using Figma templates.
 - **Accessible:** Built with accessibility standards.
+
+## Design
+
+The project design was crafted using Figma.
+
+- [**Project Template (Figma)**](https://www.figma.com/file/taM5g2ETLnACjrmxa2HeDJ/Projeto-E-Commerce?node-id=116%3A92)
+
 
 ## Technologies Used
 
