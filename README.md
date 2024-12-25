@@ -1,36 +1,64 @@
-[Candleaf Live (Github Pages)](https://guazzihub.github.io/Projeto-CodeBlue/)
+# Candleaf Live
 
-[Project template (Figma)](https://www.figma.com/file/taM5g2ETLnACjrmxa2HeDJ/Projeto-E-Commerce?node-id=116%3A92)
+[![Live Demo](https://img.shields.io/badge/demo-visit-green)](https://guazzihub.github.io/Candleaf-Ecommerce/)
 
- **Credits:**
-  - [Diego Perly (Teacher)](https://www.youtube.com/c/diegoperly)
-  - [CodeBlue Team](https://www.codeblue.com.br/)
+Candleaf Live is a modern e-commerce platform developed as the **graduation project for the CodeBlue course**. Designed to provide a seamless shopping experience, this project showcases best practices in web development using robust frameworks and optimized for high performance.
 
-**Fonts:**
-  - [Bootstrap - Iconography Font](https://icons.getbootstrap.com/)
-  - [Google Fonts](https://fonts.google.com/)
-  
-**Frameworks:**
-  - [Bootstrap](https://getbootstrap.com/)
-  - [Jquery](https://jquery.com/)
-  
-**Optimization tools:**
-  - [Convertio - PNG to Webp](https://convertio.co/pt/png-webp/)
-  - [Tinypng - PNG & Webp Compressor](https://tinypng.com/)
-  - [HTML Minifier Tool](https://www.willpeavy.com/tools/minifier/)
-  - [CSS/JS Minifier Tool](https://www.minifier.org/)
 
-**Performance analyzes:**
-  - [Google Pagespeed](https://pagespeed.web.dev/)
-  - [Google Lighthouse (Chrome extension)](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en)
-  - [Acessibility Analyzer](https://wave.webaim.org/)
-  
+## Table of Contents
 
-  ![Pagespeed Desktop](https://github.com/Guazzihub/Projeto-Final-CodeBlue/blob/main/assets/readme/performance-pagespeed-desktop.png)
-  ![Pagespeed Mobile](https://github.com/Guazzihub/Projeto-Final-CodeBlue/blob/main/assets/readme/performance-pagespeed-mobile.png)
-  ![Lighthouse](https://github.com/Guazzihub/Projeto-Final-CodeBlue/blob/main/assets/readme/performance-lighthouse.png)
+- [Demo](#demo)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+  - [Fonts](#fonts)
+  - [Frameworks](#frameworks)
+  - [Optimization Tools](#optimization-tools)
+  - [Performance Analysis](#performance-analysis)
+- [Credits](#credits)
+- [Known Issues](#known-issues)
 
- 
- **Known issues:**
+## Demo
+
+Experience the live version of the project:
+
+[**Candleaf Live**](https://guazzihub.github.io/Candleaf-Ecommerce/)
+
+## Features
+
+- **Responsive Design:** Optimized for both desktop and mobile devices.
+- **Fast Performance:** Utilizes web optimization tools to ensure quick load times.
+- **User-Friendly Interface:** Designed with user experience in mind using Figma templates.
+- **Accessible:** Built with accessibility standards.
+
+## Technologies Used
+
+### Fonts
+
+- [Bootstrap Iconography Font](https://icons.getbootstrap.com/)
+- [Google Fonts](https://fonts.google.com/)
+
+### Frameworks
+
+- [Bootstrap](https://getbootstrap.com/)
+- [jQuery](https://jquery.com/)
+
+### Optimization Tools
+
+- [Convertio - PNG to WebP](https://convertio.co/pt/png-webp/) – Convert PNG images to WebP format.
+- [TinyPNG - PNG & WebP Compressor](https://tinypng.com/) – Compress PNG and WebP images without losing quality.
+- [HTML Minifier Tool](https://www.willpeavy.com/tools/minifier/) – Reduce HTML file sizes.
+- [CSS/JS Minifier Tool](https://www.minifier.org/) – Minimize CSS and JavaScript files.
+
+### Performance Analysis
+
+- [Google PageSpeed Insights (Mobile)](https://pagespeed.web.dev/analysis/https-guazzihub-github-io-Candleaf-Ecommerce/i3plrvxni2?form_factor=mobile) – Mobile Performance Score: **94**
+- [Google PageSpeed Insights (Web)](https://pagespeed.web.dev/analysis/https-guazzihub-github-io-Candleaf-Ecommerce/i3plrvxni2?form_factor=desktop) – Web Performance Score: **100**
+- [Accessibility Analyzer](https://wave.webaim.org/) – Ensure accessibility standards.
+
+## Credits
+
+- **[Diego Perly (Teacher)](https://www.youtube.com/c/diegoperly)**
+- **[CodeBlue Team](https://www.codeblue.com.br/)**
+
+## Known issues:
    - Small border showing up on specific phones.
-
