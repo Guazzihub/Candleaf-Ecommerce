@@ -16,7 +16,6 @@ Candleaf Live is a modern e-commerce platform developed as the **graduation proj
   - [Optimization Tools](#optimization-tools)
   - [Performance Analysis](#performance-analysis)
 - [Credits](#credits)
-- [Known Issues](#known-issues)
 
 ## Demo
 
@@ -67,6 +66,3 @@ The project design was crafted using Figma.
 
 - **[Diego Perly (Teacher)](https://www.youtube.com/c/diegoperly)**
 - **[CodeBlue Team](https://www.codeblue.com.br/)**
-
-## Known issues:
-   - Small border showing up on specific phones.
