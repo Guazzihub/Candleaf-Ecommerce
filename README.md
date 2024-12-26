@@ -1,8 +1,8 @@
-# Candleaf Live
+# Candleaf
 
 [![Live Demo](https://img.shields.io/badge/demo-visit-green)](https://guazzihub.github.io/Candleaf-Ecommerce/)
 
-Candleaf Live is a modern e-commerce platform developed as the **graduation project for the CodeBlue course**. Designed to provide a seamless shopping experience, this project showcases best practices in web development using robust frameworks and optimized for high performance.
+Candleaf is a modern e-commerce platform developed as the **graduation project for the CodeBlue course**. Designed to provide a seamless shopping experience, this project showcases best practices in web development using robust frameworks and optimized for high performance.
 
 
 ## Table of Contents
